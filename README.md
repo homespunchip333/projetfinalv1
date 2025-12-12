@@ -48,6 +48,7 @@ Pour opérer mon jeu, je vais devoir m'assurer que tous mes énigmes, pancartes 
 
 ## Conclusion:
 ### Ce qui rend le projet innovant
-Ce qui rend le projet innovant est 
+Ce qui rend le projet innovant est le fait qu'il soit vraiment dirigé pour les étudiants et non ouvert simplement au grand public ou tout le monde qui veut se joindre.
 ### Ce qui le distingue de la concurrence
+Ce qui distingue mon projet de la concurrence est qu'il implique un acteur qui se prête au jeu et donc qui rend le jeu beaucoup plus vivant et actif, il donne l'impression que c'est réel et incitera plus les gens à jouer 
 ### Pourquoi il pourrait attirer des investisseurs Kickstarter  ?                                                              
