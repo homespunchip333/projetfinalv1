@@ -44,9 +44,7 @@ En postproduction, je devrai faire essayer les énigmes à des gens que je ne co
 Pour opérer mon jeu, je vais devoir m'assurer que tous mes énigmes, pancartes etc. restent bien placés et en fonction. Je dois essayer d'être à jour avec le statut de la recherche que font les élèves et par la suite m'ajuster en ce qui concerne les vidéos à mettre en ligne et plus.
 
 ## La maquette (prototype):
-
-### Présenter le résultat au moyen d’un montage visuel (Photoshop)
-### Présenter l’interface principal ou le flux de l’expérience
+<img width="1920" height="1080" alt="ITCHYPLAN" src="https://github.com/user-attachments/assets/da58a12b-d7bd-43ef-b493-2aa7e8f872f1" />
 
 ## Conclusion:
 ### Ce qui rend le projet innovant
