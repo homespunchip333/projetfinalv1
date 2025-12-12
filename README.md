@@ -31,26 +31,8 @@ Pour ce qui est de la technologie utilisé dans cet ARG, il n'y aura pas de site
 Le concept répond aux attentes du public cible de potentiellement trouvé et s'enrichir et potentiellement  atteindre la gloire ou la fierté d'avoir trouvé la souris Montmorency avant les autres étudiants.
 
 ## Moodboard du visuel du projet
-### Images de références
-![casier67](https://github.com/user-attachments/assets/d37d66e9-a2c3-44fd-853c-a0b24c69f3c6)
-![babillard](https://github.com/user-attachments/assets/b1c390d5-884b-4108-aee0-a35446434339)
-![cadenas](https://github.com/user-attachments/assets/8d8ebb1a-afe4-4b2f-afc1-7dea3c2459dc)
-![compartimentsecret](https://github.com/user-attachments/assets/74c713de-27eb-4e17-98a2-81e553ca767e)
-![chaiseee](https://github.com/user-attachments/assets/7fa119f7-8d56-40de-8b33-702169e002fe)
+<img width="1333" height="2000" alt="Moodboard" src="https://github.com/user-attachments/assets/5322a626-4ae5-4c6b-8b2b-0256c94e8101" />
 
-### Palette de couleurs
-#0F172A (Bleu foncé)
-#1E293B (Bleu)
-#E5E7EB (Gris pâle)
-#9CA3AF (Gris)
-#6B7280  (Gris de la souris)
-#B91C1C (Rouge vif)
-#F59E0B (Orange)
-
-### Ensemble de typographies  
-Bebas Neue
-Crimson Pro
-Share Tech Mono
 ## La description des tâches principales:
 ### Préproduction: 
 Pour la préproduction, il sera cruciale de bien planifier toutes les énigmes que les joueurs auront à compléter. Je continuerai aussi en faisant un brouillon de toutes mes affiches et pancartes à mettre dans le collège, planifier les vidéos, les scripter et aussi faire un concept de la souris.
