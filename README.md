@@ -1,4 +1,4 @@
-# Multimédia - Projet finale (goat)
+# Multimédia - Projet finale
 
 ## Type de projet
 
