@@ -45,7 +45,8 @@ Pour opérer mon jeu, je vais devoir m'assurer que tous mes énigmes, pancartes 
 
 ## La maquette (prototype):
 <img width="1920" height="1080" alt="ITCHYPLAN" src="https://github.com/user-attachments/assets/da58a12b-d7bd-43ef-b493-2aa7e8f872f1" />
-
+## Wireframe des énigmes:
+<img width="1411" height="196" alt="planenigme" src="https://github.com/user-attachments/assets/0bff3068-eb58-4970-8c4d-7c0d9059c998" />
 ## Conclusion:
 ### Ce qui rend le projet innovant
 Ce qui rend le projet innovant est le fait qu'il soit vraiment dirigé pour les étudiants et non ouvert simplement au grand public ou tout le monde qui veut se joindre.
